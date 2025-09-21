@@ -1,4 +1,4 @@
 # Hackthon
 This is repository for hackthon.
-owner : sushant
+owner : sushant sawant
 
